@@ -1,4 +1,4 @@
-
+<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
 
 body {
 	text-align: center;
@@ -7,7 +7,7 @@ body {
 	background-repeat: no-repeat;
   	padding-bottom:50px;
 
-  	font-family:"Proxima Nova";
+  	font-family: 'Open Sans', sans-serif;
   	font-weight: lighter;
   	letter-spacing: 2px;
 }
@@ -54,26 +54,35 @@ body {
 #banner-holder {
 
 	background-image: url("http://jlouieeee.github.io/images/bluebackground_7.jpg");
-    background-size:cover;
-    height:auto;
-    width:100%;
-    padding-bottom:60px;
-    text-align:center;
+  background-size:cover;
+  height:auto;
+  width:100%;
+  padding-bottom:60px;
+  text-align:center;
 
 
 }
-#banner-content {width: 1170px; max-width:80%; margin-top: 50px; margin-left:auto; margin-right:auto;}
+
+#banner-content {
+
+  width: 1170px; 
+  max-width:80%; 
+  margin-top: 50px; 
+  margin-left:auto; 
+  margin-right:auto;}
 
 #banner-content img {max-width:90%;}
 
 #quote {
-	text-align:center;
+	
+  text-align:center;
 	margin-top:-46px;
 
 }
 
 #main-content {
-	width:700px;
+	
+  width:700px;
 	max-width:90%;
 	margin-left: auto;
 	margin-right: auto;
@@ -105,8 +114,8 @@ body {
 .btn:hover {
 
 	background:#869097;
-   border: 1px solid #869097;
-   color: #fff;
+  border: 1px solid #869097;
+  color: #fff;
 }
 
 
