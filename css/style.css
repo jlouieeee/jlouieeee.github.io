@@ -84,13 +84,11 @@ body {
   padding-top: 30px;
   text-align: justify;
   font-family: 'Open Sans', sans-serif;
+  line-height: 25px; 
   letter-spacing: 1px;
   color: #869097;
 
 }
-
-
-
 
 
 .btn {
