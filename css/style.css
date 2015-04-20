@@ -1,24 +1,24 @@
 
 
 body {
-	text-align: center;
-	margin:0;
-	padding:0;
-	background-repeat: no-repeat;
-  	padding-bottom:50px;
+  text-align: center;
+  margin:0;
+  padding:0;
+  background-repeat: no-repeat;
+    padding-bottom:50px;
 
-  	font-family:"Proxima Nova";
-  	font-weight: lighter;
-  	letter-spacing: 2px;
+    font-family:"Proxima Nova";
+    font-weight: lighter;
+    letter-spacing: 2px;
 }
 
 
 #header{
 
-	max-width: 1170px;
-	height:100px;
-	margin-left: auto;
-	margin-right:auto;
+  max-width: 1170px;
+  height:100px;
+  margin-left: auto;
+  margin-right:auto;
 
 }
 
@@ -53,7 +53,7 @@ body {
 
 #banner-holder {
 
-	background-image: url("http://jlouieeee.github.io/images/bluebackground_7.jpg");
+  background-image: url("http://jlouieeee.github.io/images/bluebackground_7.jpg");
     background-size:cover;
     height:auto;
     width:100%;
@@ -67,25 +67,25 @@ body {
 #banner-content img {max-width:90%;}
 
 #quote {
-	text-align:center;
-	margin-top:-46px;
+  text-align:center;
+  margin-top:-46px;
 
 }
 
 #main-content {
-	width:700px;
-	max-width:90%;
-	margin-left: auto;
-	margin-right: auto;
+  width:700px;
+  max-width:90%;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 #main-content p, #main-content ul {
 
-	padding-top: 30px;
-	text-align: justify;
-	font-family: "Proxima Nova";
-	letter-spacing: 1px;
-	color: #869097;
+  padding-top: 30px;
+  text-align: justify;
+  font-family: "Proxima Nova";
+  letter-spacing: 1px;
+  color: #869097;
 
 }
 
@@ -99,12 +99,12 @@ body {
    background:white;
    border: 1px solid #869097;
    color: #869097;
-   text-decoration:none;	
+   text-decoration:none;  
 }
 
 .btn:hover {
 
-	background:#869097;
+  background:#869097;
    border: 1px solid #869097;
    color: #fff;
 }
