@@ -1,0 +1,141 @@
+body {
+	font-size: 10px;
+	font-family: 'Libre Baskerville', serif;
+}
+
+#header {
+	color: #000;
+	padding: 15em 5em 5em;
+	text-align: center;
+}
+
+h1{
+	font-family: 'Libre Baskerville', serif;
+	font-weight: bold;
+	text-align: center;
+	font-size: 1.5em;
+	letter-spacing: .1em;
+
+}
+
+h2 {
+	font-family: 'Libre Baskerville', serif;
+	font-weight: lighter;
+	text-align: center;
+	font-size: 1.2em;
+	letter-spacing: .1em;
+}
+
+#quote {
+	border-style: solid;
+	border-width: .1em;
+	padding: 1.5em;
+	margin: 0em 54em; 
+
+}
+
+#button {
+	text-align: center;
+	padding: 20em;
+}
+
+#logo {
+	text-align: center;
+	padding: .5em 0em 1em;
+	border-bottom: solid;
+	border-width: .1em;
+}
+
+#title {
+	padding: 2em;
+	
+}
+
+hr {
+	width: 5em;
+}
+
+#wrapper {
+	width: 112em;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 20px;
+	padding-bottom: 6em;
+}
+
+#aboutme {
+	background-color: #1e1e1e;
+	padding-top: 2em; 
+}
+
+#title2 {
+	padding: 2em;
+	color: #fff;
+}
+
+
+p {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 1.7em;
+	color: #fff;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 0em 8em 4em;
+	text-align: justify;
+	line-height: 1.9em;
+}
+
+#contact p {
+	color: #000; 
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.btn {
+
+   padding: 10px 20px;
+   background:white;
+   border: 1px solid #1e1e1e;
+   color: #1e1e1e;
+   text-decoration:none;
+   letter-spacing: .1em	
+}
+
+.btn:hover {
+
+	background:#1e1e1e;
+   border: 1px solid #1e1e1e;
+   color: #fff;
+}
+
+@media only screen and (max-width: 480px) {
+
+	#header {
+	color: #000;
+	padding: 15em 5em 5em;
+	text-align: center;
+	width: 30em;
+}
+
+	#wrapper {
+	float: none;
+	width: auto; 
+}
+
+#aboutme {
+	background-color: #1e1e1e;
+	padding-bottom: 3em; 
+}
+
+p {
+	float: none;
+	width: auto;
+	padding: 0em 2em 0em; 
+}
+
+#contact p {
+	color: #000; 
+	float: none;
+	width: auto;
+	padding: 0em 2em 0em; 
+}
